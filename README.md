@@ -1,8 +1,6 @@
 # web-dev-starter
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is a simple HTML + CSS website to demonstrate the power of CSS.
 
 ## Getting Started
 
@@ -11,6 +9,7 @@ To get started, clone this repository and run the following commands:
 ```bash
 npm install
 ```
+
 This will install the necessary dependencies for the project.
 
 ## Development
@@ -22,8 +21,4 @@ you do not need to setup a local server to run the project.
 
 ## Testing
 
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
+Tests were removed from this project as it does not include JavaScript. Do not attempt to run the tests.
